@@ -17,7 +17,7 @@ Project is created with:
 	
 ## Setup
 To run this project, install it locally using npm:
-npm run serve
-ng serve
-npm install -g json-server
-json-server --watch db.json
+* npm run serve
+* ng serve
+* npm install -g json-server
+* json-server --watch db.json
